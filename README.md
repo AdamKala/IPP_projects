@@ -2,4 +2,4 @@
 
 Project1 6.5/8
 
-Project2 TBD
+Project2 11/12
